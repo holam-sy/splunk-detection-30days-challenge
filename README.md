@@ -10,7 +10,8 @@ which provides interactive SOC labs and real log datasets.
 
 The idea is simple:  
 - Practice Splunk detections every day  
-- Build a public learning log that others can follow  
+- Build a public learning log that others can follow
+- Chat-GPT4o helps me quickly acquire some knowledge
 
 ---
 
